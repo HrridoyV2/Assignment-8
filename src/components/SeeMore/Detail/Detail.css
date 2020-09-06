@@ -1,0 +1,11 @@
+.comment{
+    text-align: center;
+    border: 2px gray solid;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
